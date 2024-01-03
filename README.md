@@ -6,4 +6,4 @@ Designed a program to track employees’ attendance and time spent in the office
 
 Video: 
 
-https://drive.google.com/file/d/18cWJUTerhxKRIefCZgtCSLPuQBUMNfqL/view?usp=sharing  
+https://youtu.be/T4D61s6FyzQ 
