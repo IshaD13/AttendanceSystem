@@ -1,0 +1,22 @@
+#regTab{
+    background-color: floralwhite;
+    font-size: 20px;
+}
+
+input[type=text] {
+  width: 50%;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+    width: 50%;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
